@@ -21,10 +21,13 @@ org; updates on every release.
 | Repo | Visibility | What it's for |
 | --- | --- | --- |
 | [welcome](https://github.com/hertie-dsl-demo-f2025/welcome) | public | Course front door - open a Join issue to enrol |
+| [assignment-1](https://github.com/hertie-dsl-demo-f2025/assignment-1) | private | assignment-1 - cohort assignment template |
+| [assignment-2](https://github.com/hertie-dsl-demo-f2025/assignment-2) | private | assignment-2 - cohort assignment template |
 | [classroom-config](https://github.com/hertie-dsl-demo-f2025/classroom-config) | private | PRIVATE cohort config - roster (students.csv). No PII leaves here. |
 | [hertie-dsl-demo-f2025.github.io](https://github.com/hertie-dsl-demo-f2025/hertie-dsl-demo-f2025.github.io) | public | Cohort course website (auto-deployed on push) |
+| [materials](https://github.com/hertie-dsl-demo-f2025/materials) | private | Released course materials (enrolled students only) |
 
-_Teaching staff (instructors, TAs, faculty assistants): your action buttons aren't here - they live in the
+_Teaching staff (instructors, TAs, faculty assistants): your action workflows aren't here - they live in the
 parent **course org's** `.github` control panel, on its Actions tab._
 
 ---
