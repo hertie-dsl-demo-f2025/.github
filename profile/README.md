@@ -1,3 +1,7 @@
+<!-- INSTRUCTOR-OWNED - this is the page students land on, so it is yours to word.
+     It is seeded ONCE and every edit you make survives the nightly refresh. The one
+     exception is the repo table below, between the dsl:repo-table markers. -->
+
 # hertie-dsl-demo-f2025
 
 Welcome! This is the course organisation for **hertie-dsl-demo-f2025**.
@@ -18,6 +22,10 @@ org; updates on every release.
 
 ## Where things are
 
+<!-- dsl:repo-table:start - AUTO-GENERATED from this org's live repo list.
+     Edits between these markers are overwritten on the next refresh. The
+     "What it's for" column is each repo's own GitHub description - to change
+     what a row says, edit that. -->
 | Repo | Visibility | What it's for |
 | --- | --- | --- |
 | [welcome](https://github.com/hertie-dsl-demo-f2025/welcome) | public | Course front door - open a Join issue to enrol |
@@ -26,9 +34,10 @@ org; updates on every release.
 | [classroom-config](https://github.com/hertie-dsl-demo-f2025/classroom-config) | private | PRIVATE cohort config - roster (students.csv). No PII leaves here. |
 | [hertie-dsl-demo-f2025.github.io](https://github.com/hertie-dsl-demo-f2025/hertie-dsl-demo-f2025.github.io) | public | Cohort course website (auto-deployed on push) |
 | [materials](https://github.com/hertie-dsl-demo-f2025/materials) | private | Released course materials (enrolled students only) |
+<!-- dsl:repo-table:end -->
 
 _Teaching staff (instructors, TAs, faculty assistants): your action workflows aren't here - they live in the
 parent **course org's** `.github` control panel, on its Actions tab._
 
 ---
-_Hertie Data Science Lab. This page is auto-generated._
+_Hertie Data Science Lab._
