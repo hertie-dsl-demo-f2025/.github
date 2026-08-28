@@ -45,7 +45,7 @@ org; updates on every release.
 | [welcome](https://github.com/hertie-dsl-demo-f2025/welcome) | public | Course front door - open a Join issue to enrol |
 | [classroom-config](https://github.com/hertie-dsl-demo-f2025/classroom-config) | public | [visible to instructors only]: Everything you configure for this cohort is here - student roster, teams, term schedule, and marking. Students never see it, and no PII leaves this repo. |
 | [hertie-dsl-demo-f2025.github.io](https://github.com/hertie-dsl-demo-f2025/hertie-dsl-demo-f2025.github.io) | public | [do not touch]: Course website (auto-deployed) |
-| [materials](https://github.com/hertie-dsl-demo-f2025/materials) | public | Released lectures, labs, readings, & other materials |
+| [materials](https://github.com/hertie-dsl-demo-f2025/materials) | private | Released lectures, labs, readings, & other materials |
 <!-- dsl:repo-table:end -->
 
 _Teaching staff (instructors, TAs, faculty assistants): your action workflows aren't here - they live in the
