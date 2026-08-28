@@ -6,6 +6,20 @@
 
 Welcome! This is the course organisation for **Deep Learning (Demo)**.
 
+<!-- dsl-demo-framing:start -->
+> **A demonstration org.** Everything here is public so you can read it without a GitHub
+> account. In a real cohort `classroom-config` and `materials` are **private** - the
+> descriptions in the table below still state those real permissions. The roster is
+> invented.
+>
+> This is the **defaults-only** cohort: bootstrapped, given a schedule, and left alone. It
+> shows the quickest route to a deployed course - no custom release times, no group work,
+> no auditors, no staff photos.
+> [`hertie-dsl-demo-f2026`](https://github.com/hertie-dsl-demo-f2026) is the same toolkit
+> with every option exercised. Both are released from
+> [`hertie-dsl-demo-course-e1234`](https://github.com/hertie-dsl-demo-course-e1234).
+<!-- dsl-demo-framing:end -->
+
 ## Course website
 
 **[Deep Learning (Demo) - course website](https://hertie-dsl-demo-f2025.github.io/)** - schedule,
