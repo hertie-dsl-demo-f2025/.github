@@ -8,7 +8,7 @@ Welcome! This is the course organisation for **Deep Learning (Demo)**.
 
 <!-- dsl-demo-framing:start -->
 > **A demonstration org.** Everything here is public so you can read it without a GitHub
-> account. In a real cohort `classroom-config` and `materials` are **private** - the
+> account. In a real cohort `semester-config` and `materials` are **private** - the
 > descriptions in the table below still state those real permissions. The roster is
 > invented.
 >
@@ -29,7 +29,7 @@ org; updates on every release.
 ## Getting started
 
 1. Open a **Join** issue in
-   [`welcome`](https://github.com/hertie-dsl-demo-f2025/welcome/issues/new/choose) to enrol - your
+   [`join`](https://github.com/hertie-dsl-demo-f2025/join/issues/new/choose) to enrol - your
    GitHub handle is captured automatically.
 2. Once you're enrolled, course **materials** open up here session by session, and your
    own assignment repositories appear in this org.
