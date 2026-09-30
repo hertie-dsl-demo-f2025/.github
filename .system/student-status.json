@@ -56,6 +56,24 @@
   },
   "rows": [
     {
+      "id": "syllabus",
+      "kind": "lecture",
+      "number": 1,
+      "when": "2025-09-01T09:00:00+02:00",
+      "all_day": false,
+      "title": "Lecture 1",
+      "subtitle": "",
+      "details": "",
+      "assignment": null,
+      "released": false,
+      "tbc": false,
+      "off_schedule": false,
+      "links": [],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false
+    },
+    {
       "id": "term-start",
       "kind": "term_date",
       "number": null,
@@ -180,6 +198,24 @@
           "url": "https://github.com/hertie-dsl-demo-f2025/materials/blob/HEAD/readings/03_deep-neural-networks-2"
         }
       ],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false
+    },
+    {
+      "id": "assignment-1:handout",
+      "kind": "assignment",
+      "number": null,
+      "when": "2025-09-23T14:00:00+02:00",
+      "all_day": false,
+      "title": "Assignment 1",
+      "subtitle": "",
+      "details": "",
+      "assignment": "assignment-1",
+      "released": true,
+      "tbc": false,
+      "off_schedule": false,
+      "links": [],
       "readings": [],
       "reading_list": "",
       "readings_pending": false
@@ -315,6 +351,42 @@
       "readings_pending": false
     },
     {
+      "id": "assignment-2:handout",
+      "kind": "assignment",
+      "number": null,
+      "when": "2025-10-21T14:00:00+02:00",
+      "all_day": false,
+      "title": "Assignment 2",
+      "subtitle": "",
+      "details": "",
+      "assignment": "assignment-2",
+      "released": true,
+      "tbc": false,
+      "off_schedule": false,
+      "links": [],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false
+    },
+    {
+      "id": "midterm-exam",
+      "kind": "exam",
+      "number": null,
+      "when": "2025-10-28T10:00:00+01:00",
+      "all_day": false,
+      "title": "Midterm Exam",
+      "subtitle": "",
+      "details": "",
+      "assignment": null,
+      "released": true,
+      "tbc": false,
+      "off_schedule": false,
+      "links": [],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false
+    },
+    {
       "id": "session-08",
       "kind": "lecture",
       "number": 8,
@@ -341,6 +413,24 @@
           "url": "https://github.com/hertie-dsl-demo-f2025/materials/blob/HEAD/readings/08_nlp-2-encoder-decoder-and-attention"
         }
       ],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false
+    },
+    {
+      "id": "assignment-3:handout",
+      "kind": "assignment",
+      "number": null,
+      "when": "2025-10-28T14:00:00+01:00",
+      "all_day": false,
+      "title": "Assignment 3",
+      "subtitle": "",
+      "details": "",
+      "assignment": "assignment-3",
+      "released": true,
+      "tbc": false,
+      "off_schedule": false,
+      "links": [],
       "readings": [],
       "reading_list": "",
       "readings_pending": false
@@ -440,6 +530,24 @@
       "readings_pending": false
     },
     {
+      "id": "final-exam",
+      "kind": "exam",
+      "number": null,
+      "when": "2025-12-16T10:00:00+01:00",
+      "all_day": false,
+      "title": "Final Exam",
+      "subtitle": "",
+      "details": "",
+      "assignment": null,
+      "released": true,
+      "tbc": false,
+      "off_schedule": false,
+      "links": [],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false
+    },
+    {
       "id": "term-end",
       "kind": "term_date",
       "number": null,
@@ -449,6 +557,60 @@
       "subtitle": "",
       "details": "",
       "assignment": null,
+      "released": true,
+      "tbc": false,
+      "off_schedule": false,
+      "links": [],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false
+    },
+    {
+      "id": "assignment-1:due",
+      "kind": "due",
+      "number": null,
+      "when": "2027-08-01T23:59:00+02:00",
+      "all_day": false,
+      "title": "Assignment 1",
+      "subtitle": "",
+      "details": "",
+      "assignment": "assignment-1",
+      "released": true,
+      "tbc": false,
+      "off_schedule": false,
+      "links": [],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false
+    },
+    {
+      "id": "assignment-2:due",
+      "kind": "due",
+      "number": null,
+      "when": "2027-08-01T23:59:00+02:00",
+      "all_day": false,
+      "title": "Assignment 2",
+      "subtitle": "",
+      "details": "",
+      "assignment": "assignment-2",
+      "released": true,
+      "tbc": false,
+      "off_schedule": false,
+      "links": [],
+      "readings": [],
+      "reading_list": "",
+      "readings_pending": false
+    },
+    {
+      "id": "assignment-3:due",
+      "kind": "due",
+      "number": null,
+      "when": "2027-08-01T23:59:00+02:00",
+      "all_day": false,
+      "title": "Assignment 3",
+      "subtitle": "",
+      "details": "",
+      "assignment": "assignment-3",
       "released": true,
       "tbc": false,
       "off_schedule": false,
@@ -476,7 +638,86 @@
       "readings_pending": false
     }
   ],
-  "assignments": [],
+  "assignments": [
+    {
+      "slug": "assignment-1",
+      "title": "Assignment 1",
+      "subtitle": "Linear regression from scratch",
+      "handout_datetime": "2025-09-23T14:00:00+02:00",
+      "due_datetime": "2027-08-01T23:59:00+02:00",
+      "grading_cutoff_datetime": "2027-08-11T23:59:00+02:00",
+      "late_rule": "10% per day, up to 10 days",
+      "cutoff_sentence": "What is on main at the late cutoff is what is marked.",
+      "submit_via": "assignment_repo",
+      "shape": "assignment-repo-private",
+      "shape_note": "NB: this repo is private - only you and the instructors can read it.",
+      "private_repo": true,
+      "submit_url": "",
+      "group": false,
+      "team_formation": null,
+      "teams": [],
+      "solution_datetime": null,
+      "max_points": null,
+      "handed_out": true,
+      "brief": "This assignment asks you to build ordinary least squares from first principles, using\nnothing but the standard library, so that you understand exactly what a call to `fit()`\nis doing before you rely on a modelling package for the rest of the course.\n\n## Task\n\nYou are given a small tabular dataset and a `starter.py` with four functions to complete:\n`fit_linear_regression`, `predict`, `r_squared` and `solve_linear_system`. The first three\nbuild the familiar OLS workflow end to end; the fourth is the linear algebra underneath it,\nsince `fit_linear_regression` should call your own solver rather than a library routine.\n\nWork through the normal equations by hand before you code them: write down the matrix\nform, check the dimensions, and only then translate it into loops or list comprehensions.\nA solver that works on a well-behaved toy example but breaks on a singular or\nnear-singular system is a common failure mode here, so test with more than one dataset\nshape.\n\nTo get started:\n\n- Read the starter and the docstrings before writing anything.\n- Derive the normal equations on paper first.\n- Implement `solve_linear_system`, then `fit_linear_regression`, then `predict` and `r_squared`.\n- Test each function against a small worked example you can check by hand.\n- Run the whole file top to bottom before you commit.\n\n## What to submit\n\nUpload your completed `starter.py` to Moodle. Nothing is collected from GitHub for this\nassignment; this repository is where the starter and this brief live, not where work is\nhanded in.\n\n## Grading\n\n- Correctness of `solve_linear_system` on both well-conditioned and near-singular inputs.\n- Correctness of `fit_linear_regression`, `predict` and `r_squared` against known worked examples.\n- Code clarity: sensible names, no unnecessary repetition, and numerical guards where the\n  docstrings ask for them.\n- Whether the file runs cleanly from a fresh checkout.",
+      "tbc": false
+    },
+    {
+      "slug": "assignment-2",
+      "title": "Assignment 2",
+      "subtitle": "Hackathon showcase",
+      "handout_datetime": "2025-10-21T14:00:00+02:00",
+      "due_datetime": "2027-08-01T23:59:00+02:00",
+      "grading_cutoff_datetime": "2027-08-11T23:59:00+02:00",
+      "late_rule": "10% per day, up to 10 days",
+      "cutoff_sentence": "What is on main at the late cutoff is what is marked.",
+      "submit_via": "assignment_repo",
+      "shape": "assignment-repo-private",
+      "shape_note": "NB: this repo is private - only you and the instructors can read it.",
+      "private_repo": true,
+      "submit_url": "",
+      "group": false,
+      "team_formation": null,
+      "teams": [],
+      "solution_datetime": null,
+      "max_points": 100,
+      "handed_out": true,
+      "brief": "This is a sprint, not a term project: in a short, compressed window you will pick a small\ndata problem, build something that actually runs, and show it off.\n\n## Task\n\nChoose a dataset and a question you can make real progress on quickly - better a small,\nworking end-to-end pipeline than an ambitious one that only half-runs by the deadline.\nSpend the first stretch of time getting something crude working front to back before you\npolish any single part of it; a rough baseline that produces an answer beats a\nbeautifully engineered feature pipeline with nothing at the end of it.\n\nBecause this repository is public from the day it is handed out, treat every commit as\nsomething a stranger could read. Keep the write-up short and honest about what worked and\nwhat did not; a hackathon project that admits its limitations is more convincing than one\nthat oversells a result nobody can reproduce.\n\nSuggested approach:\n\n- Pick a problem you can scope down to something finishable.\n- Get a crude end-to-end version working before improving any one part.\n- Keep a short running log of decisions and dead ends as you go.\n- Prepare a brief demo: what it does, what it does not, and why.\n\n## What to submit\n\nPush your notebook or code, and a short write-up, to `main`. This repository is public\nfrom day one, so commit nothing private or sensitive - no credentials, no personal data,\nnothing you would not want indexed.\n\n## Grading\n\n- Prototype (40%): does it run end to end, and does it answer the question you set yourself?\n- Demo (30%): can you explain what you built and why, clearly and honestly?\n- Write-up (30%): a short, accurate account of the approach, its limits and what you would\n  do with more time.",
+      "tbc": false
+    },
+    {
+      "slug": "assignment-3",
+      "title": "Assignment 3",
+      "subtitle": "Group project",
+      "handout_datetime": "2025-10-28T14:00:00+01:00",
+      "due_datetime": "2027-08-01T23:59:00+02:00",
+      "grading_cutoff_datetime": "2027-08-11T23:59:00+02:00",
+      "late_rule": "10% per day, up to 10 days",
+      "cutoff_sentence": "What is on main at the late cutoff is what is marked.",
+      "submit_via": "assignment_repo",
+      "shape": "assignment-repo-private",
+      "shape_note": "NB: this repo is private - only you and the instructors can read it.",
+      "private_repo": true,
+      "submit_url": "",
+      "group": true,
+      "team_formation": {
+        "closes_datetime": "2027-08-11T23:59:00+02:00",
+        "max_team_size": 4
+      },
+      "teams": [
+        {
+          "name": "team-alpha",
+          "members": 1,
+          "cap": 4
+        }
+      ],
+      "solution_datetime": null,
+      "max_points": 50,
+      "handed_out": true,
+      "brief": "Working in your team, you will take a question you can defend, build the smallest model\nthat answers it honestly, and write it up so that a reader who was not in the room can\ntell whether to believe you.\n\n## Task\n\nThe point of this project is not the highest possible score; a careful, honestly\nevaluated simple model beats a leaky, over-tuned ensemble every time, and the report is\nwhere you show your reasoning stands up. Agree your question and dataset early, and write\nthe question down before you touch the data - a team that decides the question after\nseeing the results has already made the mistake the marking looks for.\n\nBuild a baseline first and keep its number in the final report next to your model's.\nEvery fitted transformation - scaling, encoding, imputation - has to sit inside your\ntrain/test split, never fitted on the whole dataset beforehand; this is the single most\ncommon way an otherwise sound project quietly leaks, and everyone on the team should be\nable to explain why it matters.\n\nTo get started:\n\n- Agree the question and dataset as a team in the first week, not the third.\n- Build and report a baseline before tuning anything more elaborate.\n- Fit every transformation inside the split, using a pipeline rather than doing it by hand.\n- Split once, early, and do not return to the test set until the report is written.\n- Draft `REPORT.md` early and keep it updated as the model develops.\n\n## What to submit\n\nThis is group work: one submission per team, from your team's own repository. Push\n`REPORT.md`, `src/pipeline.py` (or the R equivalent), `requirements.txt` (or `renv.lock`)\nand `data/README.md` describing where the data came from, to `main`. Do not commit the raw\ndata itself.\n\n## Grading\n\n- Framing and data handling: a real question, a metric that matches the decision, and\n  missingness and provenance handled deliberately.\n- Method and evaluation: a defensible split, honest tuning, and comparison against a\n  baseline with an interval.\n- Report and model card: legible to a non-specialist, with limitations stated in specifics\n  rather than in general terms.\n- Reproducibility: runs from a clean checkout with a fixed seed and pinned dependencies;\n  each member's mark carries an individual adjustment based on their contribution.",
+      "tbc": false
+    }
+  ],
   "instructors": [
     {
       "name": "Prof. Lynn Kaack, PhD",
@@ -487,7 +728,9 @@
       "email": ""
     }
   ],
-  "late_policy": [],
+  "late_policy": [
+    "10% per day, up to 10 days"
+  ],
   "materials_repos": [
     "materials"
   ],
