@@ -61,10 +61,10 @@
     {
       "id": "syllabus",
       "kind": "lecture",
-      "number": null,
+      "number": 1,
       "when": "2025-09-01T09:00:00+02:00",
       "all_day": false,
-      "title": "Lecture",
+      "title": "Lecture 1",
       "subtitle": "",
       "details": "",
       "assignment": null,
