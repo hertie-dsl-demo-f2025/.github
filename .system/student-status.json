@@ -6,7 +6,10 @@
   "timezone": "Europe/Berlin",
   "archive_datetime": "2027-09-01",
   "home_markdown": "Welcome to **Deep Learning (Demo)** at the [Hertie School Data Science Lab]().\n\n**Questions?** Open an issue in this course's [GitHub organisation](https://github.com/hertie-dsl-demo-f2025) or contact the instructor directly.",
-  "syllabus": null,
+  "syllabus": {
+    "repo": "materials",
+    "path": "SYLLABUS.pdf"
+  },
   "kinds": {
     "lecture": {
       "label": "Lecture",
@@ -65,10 +68,17 @@
       "subtitle": "",
       "details": "",
       "assignment": null,
-      "released": false,
+      "released": true,
       "tbc": false,
       "off_schedule": false,
-      "links": [],
+      "links": [
+        {
+          "name": "SYLLABUS.pdf",
+          "repo": "materials",
+          "path": "SYLLABUS.pdf",
+          "url": "https://github.com/hertie-dsl-demo-f2025/materials/blob/HEAD/SYLLABUS.pdf"
+        }
+      ],
       "readings": [],
       "reading_list": "",
       "readings_pending": false
@@ -738,6 +748,7 @@
     {
       "repo": "materials",
       "paths": [
+        "SYLLABUS.pdf",
         "labs",
         "labs/01_deep-learning-in-public-policy",
         "labs/01_deep-learning-in-public-policy/Lab_Session_1.ipynb",
