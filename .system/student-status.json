@@ -6,7 +6,7 @@
   "student_console": true,
   "semester_start": "2025-09-09",
   "semester_end": "2025-12-19",
-  "generated_at": "2026-10-12T20:11:34+00:00",
+  "generated_at": "2026-10-12T21:16:15+00:00",
   "timezone": "Europe/Berlin",
   "archive_datetime": "2027-09-01",
   "home_markdown": "Welcome to **Deep Learning (Demo)** at the [Hertie School Data Science Lab]().\n\n**Questions?** Open an issue in this course's [GitHub organisation](https://github.com/hertie-dsl-demo-f2025) or contact the instructor directly.",
@@ -81,7 +81,6 @@
     {
       "id": "syllabus",
       "kind": "lecture",
-      "number": 1,
       "when": "2025-09-01T09:00:00+02:00",
       "all_day": false,
       "title": "Lecture 1",
@@ -109,7 +108,6 @@
     {
       "id": "term-start",
       "kind": "term_date",
-      "number": null,
       "when": "2025-09-09",
       "all_day": true,
       "title": "Semester starts",
@@ -130,7 +128,6 @@
     {
       "id": "session-01",
       "kind": "lecture",
-      "number": 1,
       "when": "2025-09-09T10:00:00+02:00",
       "all_day": false,
       "title": "Lecture 1",
@@ -176,7 +173,6 @@
     {
       "id": "session-02",
       "kind": "lecture",
-      "number": 2,
       "when": "2025-09-16T10:00:00+02:00",
       "all_day": false,
       "title": "Lecture 2",
@@ -216,7 +212,6 @@
     {
       "id": "session-03",
       "kind": "lecture",
-      "number": 3,
       "when": "2025-09-23T10:00:00+02:00",
       "all_day": false,
       "title": "Lecture 3",
@@ -256,7 +251,6 @@
     {
       "id": "assignment-1:handout",
       "kind": "assignment",
-      "number": null,
       "when": "2025-09-23T14:00:00+02:00",
       "all_day": false,
       "title": "Assignment 1",
@@ -277,7 +271,6 @@
     {
       "id": "session-04",
       "kind": "lecture",
-      "number": 4,
       "when": "2025-09-30T10:00:00+02:00",
       "all_day": false,
       "title": "Lecture 4",
@@ -323,7 +316,6 @@
     {
       "id": "session-05",
       "kind": "lecture",
-      "number": 5,
       "when": "2025-10-07T10:00:00+02:00",
       "all_day": false,
       "title": "Lecture 5",
@@ -375,7 +367,6 @@
     {
       "id": "session-06",
       "kind": "lecture",
-      "number": 6,
       "when": "2025-10-14T10:00:00+02:00",
       "all_day": false,
       "title": "Lecture 6",
@@ -415,7 +406,6 @@
     {
       "id": "assignment-1:due",
       "kind": "due",
-      "number": null,
       "when": "2025-10-14T23:59:00+02:00",
       "all_day": false,
       "title": "Assignment 1",
@@ -436,7 +426,6 @@
     {
       "id": "session-07",
       "kind": "lecture",
-      "number": 7,
       "when": "2025-10-21T10:00:00+02:00",
       "all_day": false,
       "title": "Lecture 7",
@@ -464,7 +453,6 @@
     {
       "id": "assignment-2:handout",
       "kind": "assignment",
-      "number": null,
       "when": "2025-10-21T14:00:00+02:00",
       "all_day": false,
       "title": "Assignment 2",
@@ -485,7 +473,6 @@
     {
       "id": "midterm-exam",
       "kind": "exam",
-      "number": null,
       "when": "2025-10-28T10:00:00+01:00",
       "all_day": false,
       "title": "Midterm Exam",
@@ -506,7 +493,6 @@
     {
       "id": "session-08",
       "kind": "lecture",
-      "number": 8,
       "when": "2025-10-28T10:00:00+01:00",
       "all_day": false,
       "title": "Lecture 8",
@@ -564,7 +550,6 @@
     {
       "id": "assignment-3:handout",
       "kind": "assignment",
-      "number": null,
       "when": "2025-10-28T14:00:00+01:00",
       "all_day": false,
       "title": "Assignment 3",
@@ -585,7 +570,6 @@
     {
       "id": "session-09",
       "kind": "lab",
-      "number": 9,
       "when": "2025-11-04T10:00:00+01:00",
       "all_day": false,
       "title": "Lab 9",
@@ -631,7 +615,6 @@
     {
       "id": "session-10",
       "kind": "readings",
-      "number": 10,
       "when": "2025-11-11T10:00:00+01:00",
       "all_day": false,
       "title": "Readings 10",
@@ -702,7 +685,6 @@
     {
       "id": "assignment-2:due",
       "kind": "due",
-      "number": null,
       "when": "2025-11-11T23:59:00+01:00",
       "all_day": false,
       "title": "Assignment 2",
@@ -723,7 +705,6 @@
     {
       "id": "session-11",
       "kind": "lab",
-      "number": 11,
       "when": "2025-11-18T10:00:00+01:00",
       "all_day": false,
       "title": "Lab 11",
@@ -757,7 +738,6 @@
     {
       "id": "assignment-3:due",
       "kind": "due",
-      "number": null,
       "when": "2025-12-09T23:59:00+01:00",
       "all_day": false,
       "title": "Assignment 3",
@@ -778,7 +758,6 @@
     {
       "id": "final-exam",
       "kind": "exam",
-      "number": null,
       "when": "2025-12-16T10:00:00+01:00",
       "all_day": false,
       "title": "Final Exam",
@@ -799,7 +778,6 @@
     {
       "id": "term-end",
       "kind": "term_date",
-      "number": null,
       "when": "2025-12-19",
       "all_day": true,
       "title": "Semester ends",
@@ -820,7 +798,6 @@
     {
       "id": "semester-archived",
       "kind": "special_event",
-      "number": null,
       "when": "2027-09-01",
       "all_day": true,
       "title": "Semester archived",
