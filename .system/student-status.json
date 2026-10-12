@@ -2,12 +2,15 @@
   "schema": "dsl.student-status/2",
   "semester": "hertie-dsl-demo-f2025",
   "course_name": "Deep Learning (Demo)",
+  "course_description": "A public demonstration course run by the Hertie Data Science Lab - one course org and two cohort orgs showing the teaching toolkit end to end.",
+  "student_console": false,
   "semester_start": "2025-09-09",
   "semester_end": "2025-12-19",
-  "generated_at": "2026-10-08T18:29:21+00:00",
+  "generated_at": "2026-10-12T17:39:49+00:00",
   "timezone": "Europe/Berlin",
   "archive_datetime": "2027-09-01",
   "home_markdown": "Welcome to **Deep Learning (Demo)** at the [Hertie School Data Science Lab]().\n\n**Questions?** Open an issue in this course's [GitHub organisation](https://github.com/hertie-dsl-demo-f2025) or contact the instructor directly.",
+  "previous_offerings": [],
   "syllabus": {
     "repo": "materials",
     "path": "SYLLABUS.pdf"
@@ -16,52 +19,62 @@
     "lecture": {
       "label": "Lecture",
       "colour": "#a94442",
-      "background": "#f2dede"
+      "background": "#f2dede",
+      "tab": true
     },
     "lab": {
       "label": "Lab",
       "colour": "#3c763d",
-      "background": "#dff0d8"
+      "background": "#dff0d8",
+      "tab": true
     },
     "readings": {
       "label": "Readings",
       "colour": "#2b6a60",
-      "background": "#dcefec"
+      "background": "#dcefec",
+      "tab": true
     },
     "exam": {
       "label": "Exam",
       "colour": "#2b2f36",
-      "background": "#e6e8ec"
+      "background": "#e6e8ec",
+      "tab": true
     },
     "assignment": {
       "label": "Assignment",
       "colour": "#1f5fa8",
-      "background": "#d6e6f7"
+      "background": "#d6e6f7",
+      "tab": false
     },
     "term": {
       "label": "Semester",
       "colour": "#7b3fb8",
-      "background": "#ead9f6"
+      "background": "#ead9f6",
+      "tab": false
     },
     "archive": {
       "label": "Archive",
       "colour": "#7d6230",
-      "background": "#fbf2d5"
+      "background": "#fbf2d5",
+      "tab": false
     },
     "drop-in": {
       "label": "Drop-in",
       "colour": "#8f4a1c",
-      "background": "#fbe3d6"
+      "background": "#fbe3d6",
+      "tab": true
     },
     "assets": {
       "label": "Supporting files",
       "colour": "#4a5560",
-      "background": "#eceff1"
+      "background": "#eceff1",
+      "tab": true
     },
     "other": {
       "label": "Event",
       "colour": "#7d6230",
-      "background": "#fbf2d5"
+      "background": "#fbf2d5",
+      "tab": true
     }
   },
   "rows": [
@@ -88,7 +101,10 @@
       ],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "lecture"
+      ]
     },
     {
       "id": "term-start",
@@ -106,7 +122,10 @@
       "links": [],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "term_date"
+      ]
     },
     {
       "id": "session-01",
@@ -149,7 +168,10 @@
       ],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "lecture"
+      ]
     },
     {
       "id": "session-02",
@@ -186,7 +208,10 @@
       ],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "lecture"
+      ]
     },
     {
       "id": "session-03",
@@ -223,7 +248,10 @@
       ],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "lecture"
+      ]
     },
     {
       "id": "assignment-1:handout",
@@ -241,7 +269,10 @@
       "links": [],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "assignment"
+      ]
     },
     {
       "id": "session-04",
@@ -284,7 +315,10 @@
       ],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "lecture"
+      ]
     },
     {
       "id": "session-05",
@@ -333,7 +367,10 @@
       ],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "lecture"
+      ]
     },
     {
       "id": "session-06",
@@ -370,7 +407,10 @@
       ],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "lecture"
+      ]
     },
     {
       "id": "assignment-1:due",
@@ -388,7 +428,10 @@
       "links": [],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "due"
+      ]
     },
     {
       "id": "session-07",
@@ -413,7 +456,10 @@
       ],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "lecture"
+      ]
     },
     {
       "id": "assignment-2:handout",
@@ -431,7 +477,10 @@
       "links": [],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "assignment"
+      ]
     },
     {
       "id": "midterm-exam",
@@ -449,7 +498,10 @@
       "links": [],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "exam"
+      ]
     },
     {
       "id": "session-08",
@@ -504,7 +556,10 @@
       ],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "lecture"
+      ]
     },
     {
       "id": "assignment-3:handout",
@@ -522,7 +577,10 @@
       "links": [],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "assignment"
+      ]
     },
     {
       "id": "session-09",
@@ -565,7 +623,10 @@
       ],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "lab"
+      ]
     },
     {
       "id": "session-10",
@@ -633,7 +694,10 @@
         }
       ],
       "reading_list": "### Session 10 readings\n\n#### Required Readings\n\n- Bender et al. (2021), \"On the Dangers of Stochastic Parrots\", ACM FAccT '21.\n  Available through the ACM Digital Library.\n- Kaack et al. (2022), \"Aligning artificial intelligence with climate change mitigation\",\n  *Nature Climate Change* 12. Available through the Hertie library.\n- Amarasinghe et al. (2020), \"Explainable machine learning for public policy\".\n  PDF below, and <https://arxiv.org/abs/2010.14374>\n- Leslie, D., *Understanding artificial intelligence ethics and safety*, Alan Turing\n  Institute. PDF below.\n- Bommasani et al., \"On the Opportunities and Risks of Foundation Models\". PDF below.\n- Lavin et al., \"Technology Readiness Levels for Machine Learning Systems\". PDF below.\n- *HAI AI Index Report 2024*, Stanford. Too large to host; read online:\n  <https://aiindex.stanford.edu/report/>\n\n#### Optional Readings\n\n- EU AI Act, final text. <https://artificialintelligenceact.eu/the-act/>\n\n*This is a public repository, so copyrighted readings are cited rather than redistributed.*",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "readings"
+      ]
     },
     {
       "id": "assignment-2:due",
@@ -651,7 +715,10 @@
       "links": [],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "due"
+      ]
     },
     {
       "id": "session-11",
@@ -682,7 +749,10 @@
       ],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "lab"
+      ]
     },
     {
       "id": "assignment-3:due",
@@ -700,7 +770,10 @@
       "links": [],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "due"
+      ]
     },
     {
       "id": "final-exam",
@@ -718,7 +791,10 @@
       "links": [],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "exam"
+      ]
     },
     {
       "id": "term-end",
@@ -736,7 +812,10 @@
       "links": [],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "term_date"
+      ]
     },
     {
       "id": "semester-archived",
@@ -754,7 +833,10 @@
       "links": [],
       "readings": [],
       "reading_list": "",
-      "readings_pending": false
+      "readings_pending": false,
+      "tabs": [
+        "special_event"
+      ]
     }
   ],
   "assignments": [
