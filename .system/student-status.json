@@ -6,7 +6,7 @@
   "student_console": true,
   "semester_start": "2025-09-09",
   "semester_end": "2025-12-19",
-  "generated_at": "2026-10-13T17:40:53+00:00",
+  "generated_at": "2026-10-14T02:29:59+00:00",
   "timezone": "Europe/Berlin",
   "archive_datetime": "2027-09-01",
   "home_markdown": "Welcome to **Deep Learning (Demo)** at the [Hertie School Data Science Lab]().\n\n**Questions?** Open an issue in this course's [GitHub organisation](https://github.com/hertie-dsl-demo-f2025) or contact the instructor directly.",
@@ -105,7 +105,8 @@
       "readings_pending": false,
       "tabs": [
         "lecture"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "term-start",
@@ -127,7 +128,8 @@
       "readings_pending": false,
       "tabs": [
         "term_date"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "session-01",
@@ -174,7 +176,8 @@
       "readings_pending": false,
       "tabs": [
         "lecture"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "session-02",
@@ -215,7 +218,8 @@
       "readings_pending": false,
       "tabs": [
         "lecture"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "session-03",
@@ -256,7 +260,8 @@
       "readings_pending": false,
       "tabs": [
         "lecture"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "assignment-1:handout",
@@ -278,7 +283,8 @@
       "readings_pending": false,
       "tabs": [
         "assignment"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "session-04",
@@ -325,7 +331,8 @@
       "readings_pending": false,
       "tabs": [
         "lecture"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "session-05",
@@ -378,7 +385,8 @@
       "readings_pending": false,
       "tabs": [
         "lecture"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "session-06",
@@ -419,7 +427,8 @@
       "readings_pending": false,
       "tabs": [
         "lecture"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "assignment-1:due",
@@ -441,7 +450,8 @@
       "readings_pending": false,
       "tabs": [
         "due"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "session-07",
@@ -470,7 +480,8 @@
       "readings_pending": false,
       "tabs": [
         "lecture"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "assignment-2:handout",
@@ -492,7 +503,8 @@
       "readings_pending": false,
       "tabs": [
         "assignment"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "midterm-exam",
@@ -514,7 +526,8 @@
       "readings_pending": false,
       "tabs": [
         "exam"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "session-08",
@@ -573,7 +586,8 @@
       "readings_pending": false,
       "tabs": [
         "lecture"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "assignment-3:handout",
@@ -595,7 +609,8 @@
       "readings_pending": false,
       "tabs": [
         "assignment"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "session-09",
@@ -642,7 +657,8 @@
       "readings_pending": false,
       "tabs": [
         "lab"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "session-10",
@@ -714,7 +730,8 @@
       "readings_pending": false,
       "tabs": [
         "readings"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "assignment-2:due",
@@ -736,7 +753,8 @@
       "readings_pending": false,
       "tabs": [
         "due"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "session-11",
@@ -771,7 +789,8 @@
       "readings_pending": false,
       "tabs": [
         "lab"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "assignment-3:due",
@@ -793,7 +812,8 @@
       "readings_pending": false,
       "tabs": [
         "due"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "final-exam",
@@ -815,7 +835,8 @@
       "readings_pending": false,
       "tabs": [
         "exam"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "term-end",
@@ -837,7 +858,8 @@
       "readings_pending": false,
       "tabs": [
         "term_date"
-      ]
+      ],
+      "no_materials": false
     },
     {
       "id": "semester-archived",
@@ -859,7 +881,8 @@
       "readings_pending": false,
       "tabs": [
         "special_event"
-      ]
+      ],
+      "no_materials": false
     }
   ],
   "assignments": [
